@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           We are learning REACT
-          Final Test 1
+          Final Test
         </a>
       </header>
     </div>
